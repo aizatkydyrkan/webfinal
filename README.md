@@ -1,15 +1,15 @@
-# 🍽️ Elite Bistro OS | Full-Stack Reservation System
+# Elite Bistro OS | Full-Stack Reservation System
 
 A production-ready restaurant management application built with the **MVC architecture**. This system allows guests to make real-time reservations while providing administrators with a secure, JWT-protected dashboard to manage the restaurant's occupancy.
 
 ---
 
-## 🔗 Project Links
+## Project Links
 - **Live Demo (Render):** [[https://your-app-name.onrender.com](https://elite-bistro-os-full-stack-reservation.onrender.com)]
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 - **Frontend:** HTML5, CSS3 (Tailwind CSS), JavaScript (Vanilla ES6+).
 - **Backend:** Node.js, Express.js.
 - **Database:** MongoDB Atlas (NoSQL).
@@ -18,7 +18,7 @@ A production-ready restaurant management application built with the **MVC archit
 
 ---
 
-## 🏗️ Architectural Pattern (MVC)
+## Architectural Pattern (MVC)
 The project follows a modular **Model-View-Controller** structure to ensure scalability and maintainability:
 
 - **Models:** Mongoose schemas for `User` (Admins) and `Reservation`.
@@ -30,7 +30,7 @@ The project follows a modular **Model-View-Controller** structure to ensure scal
 
 ---
 
-## 📑 API Documentation
+## API Documentation
 
 | Method | Endpoint | Description | Access |
 | :--- | :--- | :--- | :--- |
@@ -43,7 +43,7 @@ The project follows a modular **Model-View-Controller** structure to ensure scal
 
 ---
 
-## 🚀 Local Setup Instructions
+## Local Setup Instructions
 
 1. **Clone the repository:**
    ```bash
